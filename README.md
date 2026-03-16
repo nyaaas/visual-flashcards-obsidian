@@ -2,6 +2,9 @@
 
 A clean, visual flashcard plugin for Obsidian with card-flip animations, score tracking, and session history. Built as an alternative to existing flashcard plugins that lack a proper visual interface.
 
+<img width="439" height="547" alt="VF- Q" src="https://github.com/user-attachments/assets/80dae61b-c2cf-4ae7-8236-05a71fe1e54b" />
+<img width="423" height="522" alt="Scores and leaderboard" src="https://github.com/user-attachments/assets/fd61c9d7-965c-4cff-ae65-69e0e0e7c066" />
+
 ---
 
 ## Features
@@ -25,11 +28,9 @@ Q: Why is my code not working?
 A: You forgot to save the file
 
 ```
-
 - Each card is a `Q:` line followed by an `A:` line
 - Separate cards with enter
 - The note can contain other content — only lines starting with `Q:` and `A:` are parsed
-
 ---
 
 ## Installation
