@@ -3,7 +3,6 @@
 A clean, visual flashcard plugin for Obsidian with card-flip animations, score tracking, and session history. Built as an alternative to existing flashcard plugins that lack a proper visual interface.
 
 <img width="439" height="547" alt="VF- Q" src="https://github.com/user-attachments/assets/80dae61b-c2cf-4ae7-8236-05a71fe1e54b" />
-<img width="98" height="40" alt="VF - R⁄W" src="https://github.com/user-attachments/assets/b4366aa6-d23d-40cf-b72c-786a5e7959df" />
 <img width="423" height="522" alt="Scores and leaderboard" src="https://github.com/user-attachments/assets/fd61c9d7-965c-4cff-ae65-69e0e0e7c066" />
 
 ---
